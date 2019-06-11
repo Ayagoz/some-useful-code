@@ -1,0 +1,2 @@
+qsub -N "hippo_right_with_centering_num150_rs0_res3" lr_exp_with_centering.sh -F "28 150 hippo_right 0 3" 
+
